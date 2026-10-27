@@ -1191,6 +1191,10 @@ from .neteasemusic import (
     NetEaseMusicProgramIE,
     NetEaseMusicSingerIE,
 )
+from .netshort import (
+    NetShortIE,
+    NetShortSeriesIE,
+)
 from .netzkino import NetzkinoIE
 from .newgrounds import (
     NewgroundsIE,
