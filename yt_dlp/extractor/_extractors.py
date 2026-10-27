@@ -474,6 +474,10 @@ from .dplay import (
     ScienceChannelIE,
     TravelChannelIE,
 )
+from .dramashorts import (
+    DramaShortsIE,
+    DramaShortsSeriesIE,
+)
 from .drbonanza import DRBonanzaIE
 from .dreisat import DreiSatIE
 from .dropbox import DropboxIE
